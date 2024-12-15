@@ -1,0 +1,29 @@
+{
+  "name": "retryit",
+  "version": "1.0.0",
+  "description": "NPM library for retry API calls with configurable delays.",
+  "main": "jest.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soorajmicku/retryit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soorajmicku/retryit/issues"
+  },
+  "homepage": "https://github.com/soorajmicku/retryit#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2"
+  }
+}
